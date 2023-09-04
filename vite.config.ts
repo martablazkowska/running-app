@@ -16,6 +16,7 @@ export default defineConfig({
         name: "My Awesome App",
         short_name: "MyApp",
         description: "My Awesome App description",
+        start_url: ".",
         theme_color: "#ffffff",
         icons: [
           {
